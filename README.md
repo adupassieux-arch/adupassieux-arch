@@ -28,7 +28,7 @@ Illustrative (anonymized) case applying a Markov Decision Process framework to c
 Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
 **Stack**: SQL, SQLite, Python (pandas)
 
-### [Dev'Immediat — GDPR Compliance Audit](https://github.com/adupassieux-arch/rgpd-audit-devimmediat)
+### [Dev'Immediat — GDPR Compliance Audit](https://github.com/adupassieux-arch/rgpd-audit)
 CRM compliance audit following a CNIL sanction: 5 prioritized recommendations mapped to GDPR articles, plus a working data minimization → anonymization pipeline (SQL extraction, pandas generalization, SHA-256 pseudonymization).
 **Stack**: SQL, Python (pandas, hashlib), GDPR (EU 2016/679)
 
