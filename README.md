@@ -6,6 +6,10 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 
 ## Projects
 
+### [Les Plus Beaux Logis de Paris — Real Estate Price Prediction & Classification](https://github.com/adupassieux-arch/analyse-immobilier-paris)
+Paris real estate price analysis (2017–2021, 26k transactions) and linear regression model (8.5% average error) to predict a 275-asset portfolio valuation (€183.8M). Unsupervised K-means classification (100% validation accuracy) to auto-sort incoming acquisition opportunities by property type.
+Stack: Python, scikit-learn, pandas, matplotlib, scipy
+
 ### [Bottleneck — Interactive Dashboard](https://github.com/adupassieux-arch/dashboard)
 Stock and sales analysis for a prestige wine and spirits e-commerce catalog (825 products). Multivariate anomaly detection (Isolation Forest) and product segmentation (K-Means), benchmarked against classic statistical methods. Interactive HTML/Plotly.js dashboard.
 **Stack**: Python, scikit-learn, pandas, Plotly.js, HTML/CSS/JS
