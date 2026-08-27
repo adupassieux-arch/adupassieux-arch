@@ -6,7 +6,7 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 
 ## Projects
 
-### [Les Plus Beaux Logis de Paris — Real Estate Price Prediction & Classification](https://github.com/adupassieux-arch/analyse-immobilier-paris)
+### [Real Estate Price Prediction & Classification](https://github.com/adupassieux-arch/analyse-immobilier-paris)
 Paris real estate price analysis (2017–2021, 26k transactions) and linear regression model (8.5% average error) to predict a 275-asset portfolio valuation (€183.8M). Unsupervised K-means classification (100% validation accuracy) to auto-sort incoming acquisition opportunities by property type.
 Stack: Python, scikit-learn, pandas, matplotlib, scipy
 
