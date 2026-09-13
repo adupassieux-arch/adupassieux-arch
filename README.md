@@ -9,10 +9,12 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 ### [AD International Consulting — Official Website](https://adupassieux-arch.github.io/)
 Professional consulting site for AD International Consulting — strategic advisory in international finance, commodities, and cross-border transactions.
 
+
 ### [Case Study — Strategic MDP Dashboard](https://github.com/adupassieux-arch/strategic-dashboard)
 Illustrative (anonymized) case applying a Markov Decision Process framework to commodity trade structuring: state × action policy matrix, probabilistic scenario analysis, price structure.
 **Stack**: HTML/CSS/JS, quantitative modeling
 **[View live dashboard →](https://adupassieux-arch.github.io/strategic-dashboard/)**
+
 
 ### [Real Estate Price Prediction & Classification](https://github.com/adupassieux-arch/analyse-immobilier-paris)
 Paris real estate price analysis (2017–2021, 26k transactions) and linear regression model (8.5% average error) to predict a 275-asset portfolio valuation (€183.8M). Unsupervised K-means classification (100% validation accuracy) to auto-sort incoming acquisition opportunities by property type.
