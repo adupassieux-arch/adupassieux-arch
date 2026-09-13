@@ -1,6 +1,6 @@
 # Aurélie Dupassieux
 
-**Business Intelligence Analyst** · **Data Analyst** — Python, HTML, SQL, Power BI · Paris, France
+**Business Intelligence Analyst** · **Data Analyst** — Python, HTML, CSS, JV, SQL, Power BI · Paris, France
 
 Strategic analyst with 15+ years of experience in international finance, commodities, and cross-border transactions, specializing in data analysis, modeling, and visualization. Languages: SQL, Python, Power BI.
 
