@@ -20,7 +20,7 @@ Stock and sales analysis for a prestige wine and spirits e-commerce catalog (825
 **Stack**: Python, scikit-learn, pandas, Plotly.js, HTML/CSS/JS
 **[View live dashboard →](https://adupassieux-arch.github.io/dashboard/)**
 
-### Bottleneck — Ventes & Stock (Power BI Dashboard)
+### [Bottleneck — Ventes & Stock (Power BI Dashboard)](https://github.com/adupassieux-arch/Bottleneck_Dashboard)
 
 Business intelligence dashboard for a wine & spirits distributor: sales, margin, stock rotation and promotion ROI, built on a star-schema data model with automated Power Query cleansing and DAX measures. Includes 3 data-backed business recommendations (segment profitability, slow-moving stock, promo targeting). **Stack**: Power BI, Power Query, DAX [View live dashboard →](https://adupassieux-arch.github.io/Bottleneck_Dashboard/Bottleneck_Dashboard_Prototype.html)
 
