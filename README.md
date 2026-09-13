@@ -7,7 +7,7 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 ## Projects
 
 ### [AD International Consulting — Official Website](https://adupassieux-arch.github.io/)
-Professional consulting site for AD International Consulting — strategic advisory in international finance, commodities, and cross-border transactions.
+Professional consulting site for AD International Consulting — strategic advisory in international finance, commodities, and cross-border transactions, with selected publications and design work. [Visit site →](https://adupassieux-arch.github.io/)
 
 
 ### [Case Study — Strategic MDP Dashboard](https://github.com/adupassieux-arch/strategic-dashboard)
