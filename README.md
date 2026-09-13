@@ -42,7 +42,7 @@ CRM compliance audit following a CNIL sanction: 5 prioritized recommendations ma
 
 ## Skills
 
-`Python` · `Jupyter Notebook` · `SQL` · `Power BI` · `HTML` ·`pandas` · `scikit-learn` · `Machine Learning` · `Data Visualization` · `Data Modeling` · `DAX` · `Power Query`
+`Python` · `Jupyter Notebook` · `SQL` · `Power BI` · `HTML` · `CSS` ·`pandas` · `scikit-learn` · `Machine Learning` · `Data Visualization` · `Data Modeling` · `DAX` · `Power Query`
 
 ## Contact
 
