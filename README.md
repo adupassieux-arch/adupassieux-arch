@@ -6,6 +6,9 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 
 ## Projects
 
+### [AD International Consulting — Official Website](https://adupassieux-arch.github.io/)
+Professional consulting site for AD International Consulting — strategic advisory in international finance, commodities, and cross-border transactions.
+
 ### [Case Study — Strategic MDP Dashboard](https://github.com/adupassieux-arch/strategic-dashboard)
 Illustrative (anonymized) case applying a Markov Decision Process framework to commodity trade structuring: state × action policy matrix, probabilistic scenario analysis, price structure.
 **Stack**: HTML/CSS/JS, quantitative modeling
