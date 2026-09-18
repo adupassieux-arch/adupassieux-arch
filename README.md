@@ -8,22 +8,6 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 
 
 
-## Market & Technology Watch System
-
-A structured monitoring process accompanies each project: identifying a need, comparing at least two options against explicit criteria (quality, bias, time, reproducibility, compliance), and tracing sources and decisions.
-
-**Representative example** — identified need: the univariate anomaly detection (Z-score/IQR) used in an earlier project fails to catch anomalies that only emerge when several variables are combined.
-
-| Criterion | Z-score / IQR | Isolation Forest (adopted as a complement) |
-|---|---|---|
-| Multivariate detection | No | Yes |
-| Interpretability | High | Moderate — requires reading via profile comparison |
-| Robustness on small datasets | Good | Adequate, tested (96.9% stability across two runs) |
-
-**Typical sources used**: applied research publications (arXiv, the Walmart Labs case study on e-commerce price anomaly detection), technical documentation (scikit-learn, OneStream), specialized course materials, industry experience reports. **Monitoring tools**: academic aggregators (arXiv), official library documentation, technical communities (GitHub, specialized blogs). Every technical decision in the project list below is grounded in this type of documented comparison rather than a default choice.
-
-
-
 
 
 ## Projects
@@ -71,6 +55,23 @@ CRM compliance audit following a CNIL sanction: 5 prioritized recommendations ma
 Illustrative case applying a full market-analysis framework to a video game Triple-A launch decision: SWOT/PESTEL, data-driven segmentation across a 440k-title catalog, primary-research validation via a 20-respondent survey with correlation testing, and a final strategic recommendation with rough sales forecasting.
 **Stack**: Python (pandas, NumPy, Matplotlib, SciPy), Jupyter Notebook
 **[View notebook →](https://github.com/adupassieux-arch/uoi-games-etude-marche/blob/main/UOI_Games_Synthese.ipynb)**
+
+
+## Market & Technology Watch System
+
+A structured monitoring process accompanies each project: identifying a need, comparing at least two options against explicit criteria (quality, bias, time, reproducibility, compliance), and tracing sources and decisions.
+
+**Representative example** — identified need: the univariate anomaly detection (Z-score/IQR) used in an earlier project fails to catch anomalies that only emerge when several variables are combined.
+
+| Criterion | Z-score / IQR | Isolation Forest (adopted as a complement) |
+|---|---|---|
+| Multivariate detection | No | Yes |
+| Interpretability | High | Moderate — requires reading via profile comparison |
+| Robustness on small datasets | Good | Adequate, tested (96.9% stability across two runs) |
+
+**Typical sources used**: applied research publications (arXiv, the Walmart Labs case study on e-commerce price anomaly detection), technical documentation (scikit-learn, OneStream), specialized course materials, industry experience reports. **Monitoring tools**: academic aggregators (arXiv), official library documentation, technical communities (GitHub, specialized blogs). Every technical decision in the project list below is grounded in this type of documented comparison rather than a default choice.
+
+
 
 
 ## Skills
