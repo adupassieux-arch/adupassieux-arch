@@ -45,6 +45,12 @@ Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 bu
 CRM compliance audit following a CNIL sanction: 5 prioritized recommendations mapped to GDPR articles, plus a working data minimization → anonymization pipeline (SQL extraction, pandas generalization, SHA-256 pseudonymization).
 **Stack**: SQL, Python (pandas, hashlib), GDPR (EU 2016/679)
 
+### [Case Study — Video Game Market Study & Strategic Recommendation](https://github.com/adupassieux-arch/uoi-games-etude-marche)
+Illustrative case (fictional client) applying a full market-analysis framework to a video game Triple-A launch decision: SWOT/PESTEL, data-driven segmentation across a 440k-title catalog, primary-research validation via a 20-respondent survey with correlation testing, and a final strategic recommendation with rough sales forecasting.
+**Stack**: Python (pandas, NumPy, Matplotlib, SciPy), Jupyter Notebook
+**[View notebook →](https://github.com/adupassieux-arch/uoi-games-etude-marche/blob/main/UOI_Games_Synthese.ipynb)**
+
+
 ## Skills
 
 `Python` · `Jupyter Notebook` · `SQL` · `Power BI` · `HTML` · `CSS` ·`pandas` · `scikit-learn` · `Machine Learning` · `Data Visualization` · `Data Modeling` · `DAX` · `Power Query`
