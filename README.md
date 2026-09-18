@@ -4,6 +4,22 @@
 
 Strategic analyst with 15+ years of experience in international finance, commodities, and cross-border transactions, specializing in data analysis, modeling, and visualization. Languages: SQL, Python, Power BI.
 
+
+## Market & Technology Watch System
+
+A structured monitoring process accompanies each project: identifying a need, comparing at least two options against explicit criteria (quality, bias, time, reproducibility, compliance), and tracing sources and decisions.
+
+**Representative example** — identified need: the univariate anomaly detection (Z-score/IQR) used in an earlier project fails to catch anomalies that only emerge when several variables are combined.
+
+| Criterion | Z-score / IQR | Isolation Forest (adopted as a complement) |
+|---|---|---|
+| Multivariate detection | No | Yes |
+| Interpretability | High | Moderate — requires reading via profile comparison |
+| Robustness on small datasets | Good | Adequate, tested (96.9% stability across two runs) |
+
+**Typical sources used**: applied research publications (arXiv, the Walmart Labs case study on e-commerce price anomaly detection), technical documentation (scikit-learn, OneStream), specialized course materials, industry experience reports. **Monitoring tools**: academic aggregators (arXiv), official library documentation, technical communities (GitHub, specialized blogs). Every technical decision in the project list below is grounded in this type of documented comparison rather than a default choice.
+
+
 ## Projects
 
 ### [AD International Consulting — Official Website](https://adupassieux-arch.github.io/)
