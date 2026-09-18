@@ -28,7 +28,7 @@ Stack: Python, scikit-learn, pandas, matplotlib, scipy
 
 ### [Bottleneck — AI-Augmented Anomaly Detection](https://github.com/adupassieux-arch/analyse-stock-ventes)
 
-Critical, AI-assisted revisit of the Bottleneck stock and sales analysis (Project 6): benchmarked univariate outlier detection (Z-score/IQR) against a multivariate approach (Isolation Forest), tested for stability and sensitivity, then manually reviewed the flagged products to distinguish a real business risk (slow-moving premium stock) from a false positive (a strong-selling entry-level product). Full methodology, sources, and decisions documented separately. **Stack**: Python, scikit-learn, pandas
+Critical, AI-assisted revisit of the Bottleneck stock and sales analysis : benchmarked univariate outlier detection (Z-score/IQR) against a multivariate approach (Isolation Forest), tested for stability and sensitivity, then manually reviewed the flagged products to distinguish a real business risk (slow-moving premium stock) from a false positive (a strong-selling entry-level product). Full methodology, sources, and decisions documented separately. **Stack**: Python, scikit-learn, pandas
 
 ### [Bottleneck — Interactive Dashboard](https://github.com/adupassieux-arch/dashboard)
 Stock and sales analysis for a prestige wine and spirits e-commerce catalog (825 products). Multivariate anomaly detection (Isolation Forest) and product segmentation (K-Means), benchmarked against classic statistical methods. Interactive HTML/Plotly.js dashboard.
