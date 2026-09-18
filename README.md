@@ -5,6 +5,7 @@
 Strategic analyst with 15+ years of experience in international finance, commodities, and cross-border transactions, specializing in data analysis, modeling, and visualization. Languages: SQL, Python, Power BI.
 
 
+
 ## Market & Technology Watch System
 
 A structured monitoring process accompanies each project: identifying a need, comparing at least two options against explicit criteria (quality, bias, time, reproducibility, compliance), and tracing sources and decisions.
