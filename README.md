@@ -6,6 +6,8 @@ Strategic analyst with 15+ years of experience in international finance, commodi
 
 
 
+
+
 ## Market & Technology Watch System
 
 A structured monitoring process accompanies each project: identifying a need, comparing at least two options against explicit criteria (quality, bias, time, reproducibility, compliance), and tracing sources and decisions.
@@ -19,6 +21,9 @@ A structured monitoring process accompanies each project: identifying a need, co
 | Robustness on small datasets | Good | Adequate, tested (96.9% stability across two runs) |
 
 **Typical sources used**: applied research publications (arXiv, the Walmart Labs case study on e-commerce price anomaly detection), technical documentation (scikit-learn, OneStream), specialized course materials, industry experience reports. **Monitoring tools**: academic aggregators (arXiv), official library documentation, technical communities (GitHub, specialized blogs). Every technical decision in the project list below is grounded in this type of documented comparison rather than a default choice.
+
+
+
 
 
 ## Projects
