@@ -47,6 +47,11 @@ Data consolidation and cleaning across products, sales, and stock. Correlation a
 Project portfolio dashboard (IT & Marketing, 104 projects, 4 regions) for an international company. Star schema, DAX measures, automated cost/timeline/deliverable variance alerts, designed for 3 user roles (CEO, regional director, country director).
 **Stack**: Power BI, Power Query, DAX
 
+### [NBA 2024/25 — Performance Analysis & Interactive Dashboard](https://github.com/adupassieux-arch/nba-performance-dashboard)
+Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditional formatting on player impact (PIE) and a corrected points-per-minute KPI, rebuilt as an interactive web dashboard with 7 accessible charts. Key finding: minutes per game and season points are strongly correlated (r = 0.84), presented with the limits of a correlation and data-quality safeguards (minimum games played).
+**Stack**: Excel (formulas, pivot tables), HTML/CSS, JavaScript (Chart.js), GitHub Pages
+**[View live dashboard →](https://adupassieux-arch.github.io/nba-performance-dashboard/)**
+
 ### [SportDataPulse — Ligue 1 SQL Analysis](https://github.com/adupassieux-arch/sportdatapulse-sql)
 Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
 **Stack**: SQL, SQLite, Python (pandas)
