@@ -26,6 +26,15 @@ Illustrative (anonymized) case applying a Markov Decision Process framework to c
 Paris real estate price analysis (2017–2021, 26k transactions) and linear regression model (8.5% average error) to predict a 275-asset portfolio valuation (€183.8M). Unsupervised K-means classification (100% validation accuracy) to auto-sort incoming acquisition opportunities by property type.
 Stack: Python, scikit-learn, pandas, matplotlib, scipy
 
+### [NBA 2024/25 — Performance Analysis & Interactive Dashboard](https://github.com/adupassieux-arch/nba-performance-dashboard)
+Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditional formatting on player impact (PIE) and a corrected points-per-minute KPI, rebuilt as an interactive web dashboard with 7 accessible charts. Key finding: minutes per game and season points are strongly correlated (r = 0.84), presented with the limits of a correlation and data-quality safeguards (minimum games played).
+**Stack**: Excel (formulas, pivot tables), HTML/CSS, JavaScript (Chart.js), GitHub Pages
+**[View live dashboard →](https://adupassieux-arch.github.io/nba-performance-dashboard/)**
+
+### [SportDataPulse — Ligue 1 SQL Analysis](https://github.com/adupassieux-arch/sportdatapulse-sql)
+Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
+**Stack**: SQL, SQLite, Python (pandas)
+
 ### [Bottleneck — AI-Augmented Anomaly Detection](https://github.com/adupassieux-arch/analyse-stock-ventes)
 
 Critical, AI-assisted revisit of the Bottleneck stock and sales analysis : benchmarked univariate outlier detection (Z-score/IQR) against a multivariate approach (Isolation Forest), tested for stability and sensitivity, then manually reviewed the flagged products to distinguish a real business risk (slow-moving premium stock) from a false positive (a strong-selling entry-level product). Full methodology, sources, and decisions documented separately. **Stack**: Python, scikit-learn, pandas
@@ -47,14 +56,6 @@ Data consolidation and cleaning across products, sales, and stock. Correlation a
 Project portfolio dashboard (IT & Marketing, 104 projects, 4 regions) for an international company. Star schema, DAX measures, automated cost/timeline/deliverable variance alerts, designed for 3 user roles (CEO, regional director, country director).
 **Stack**: Power BI, Power Query, DAX
 
-### [NBA 2024/25 — Performance Analysis & Interactive Dashboard](https://github.com/adupassieux-arch/nba-performance-dashboard)
-Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditional formatting on player impact (PIE) and a corrected points-per-minute KPI, rebuilt as an interactive web dashboard with 7 accessible charts. Key finding: minutes per game and season points are strongly correlated (r = 0.84), presented with the limits of a correlation and data-quality safeguards (minimum games played).
-**Stack**: Excel (formulas, pivot tables), HTML/CSS, JavaScript (Chart.js), GitHub Pages
-**[View live dashboard →](https://adupassieux-arch.github.io/nba-performance-dashboard/)**
-
-### [SportDataPulse — Ligue 1 SQL Analysis](https://github.com/adupassieux-arch/sportdatapulse-sql)
-Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
-**Stack**: SQL, SQLite, Python (pandas)
 
 ### [Dev'Immediat — GDPR Compliance Audit](https://github.com/adupassieux-arch/rgpd-audit)
 CRM compliance audit following a CNIL sanction: 5 prioritized recommendations mapped to GDPR articles, plus a working data minimization → anonymization pipeline (SQL extraction, pandas generalization, SHA-256 pseudonymization).
