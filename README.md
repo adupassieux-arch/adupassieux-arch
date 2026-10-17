@@ -35,9 +35,10 @@ Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditio
 Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
 **Stack**: SQL, SQLite, Python (pandas)
 
-### [Bottleneck — AI-Augmented Anomaly Detection](https://github.com/adupassieux-arch/analyse-stock-ventes)
-
-Critical, AI-assisted revisit of the Bottleneck stock and sales analysis : benchmarked univariate outlier detection (Z-score/IQR) against a multivariate approach (Isolation Forest), tested for stability and sensitivity, then manually reviewed the flagged products to distinguish a real business risk (slow-moving premium stock) from a false positive (a strong-selling entry-level product). Full methodology, sources, and decisions documented separately. **Stack**: Python, scikit-learn, pandas
+### [Bottleneck — AI-Augmented Anomaly Detection](https://github.com/adupassieux-arch/detection-anomalies-ia)
+Critical, AI-assisted revisit of the Bottleneck stock and sales analysis (OpenClassrooms Project 11): univariate outlier detection (Z-score/IQR on price) benchmarked against a multivariate **Isolation Forest** on price, cost, stock, sales and margin across 712 products. The model surfaces **16 anomalies invisible to the univariate approach**, tested for stability (**96.9%** across two seeds) and sensitivity (3–8% contamination), then reviewed product by product to separate a business risk (slow-moving premium Champagne stock) from a positive signal (high-margin, high-velocity entry-level wines). Full methodology, sources, tests and decisions documented.
+**Stack**: Python, scikit-learn, pandas, Jupyter Notebook
+**[View project →](https://github.com/adupassieux-arch/detection-anomalies-ia)**
 
 ### [Bottleneck — Interactive Dashboard](https://github.com/adupassieux-arch/dashboard)
 Stock and sales analysis for a prestige wine and spirits e-commerce catalog (825 products). Multivariate anomaly detection (Isolation Forest) and product segmentation (K-Means), benchmarked against classic statistical methods. Interactive HTML/Plotly.js dashboard.
