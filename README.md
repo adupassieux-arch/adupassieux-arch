@@ -40,21 +40,21 @@ Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditio
 Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
 **Stack**: SQL, SQLite, Python (pandas)
 
-### [Bottleneck — AI-Augmented Anomaly Detection](https://github.com/adupassieux-arch/detection-anomalies-ia)
-Critical, AI-assisted revisit of the Bottleneck stock and sales analysis (OpenClassrooms Project 11), with an approach inspired by a [published Walmart Labs case study](https://arxiv.org/abs/1902.09566) on e-commerce price anomaly detection: univariate outlier detection (Z-score/IQR on price) benchmarked against a multivariate **Isolation Forest** on price, cost, stock, sales and margin across 712 products. The model surfaces **16 anomalies invisible to the univariate approach**, tested for stability (**96.9%** across two seeds) and sensitivity (3–8% contamination), then reviewed product by product to separate a business risk (slow-moving premium Champagne stock) from a positive signal (high-margin, high-velocity entry-level wines). Full methodology, sources, tests and decisions documented.
+### [Multivariate Anomaly Detection — Fine Wine Catalogue](https://github.com/adupassieux-arch/detection-anomalies-ia)
+Critical revisit of the stock and sales analysis of an online fine wine merchant ("Bottleneck" case, OpenClassrooms Project 11), with an approach inspired by a [published Walmart Labs case study](https://arxiv.org/abs/1902.09566) on e-commerce price anomaly detection: univariate outlier detection (Z-score/IQR on price) benchmarked against a multivariate **Isolation Forest** on price, cost, stock, sales and margin across 712 products. The model surfaces **16 anomalies invisible to the univariate approach**, tested for stability (**96.9%** across two seeds) and sensitivity (3–8% contamination), then reviewed product by product to separate a business risk (slow-moving premium Champagne stock) from a positive signal (high-margin, high-velocity entry-level wines). Full methodology, sources, tests and decisions documented.
 **Stack**: Python, scikit-learn, pandas, Jupyter Notebook
 **[View project →](https://github.com/adupassieux-arch/detection-anomalies-ia)**
 
-### [Bottleneck — Interactive Dashboard](https://github.com/adupassieux-arch/dashboard)
+### [Fine Wine E-commerce — Stock & Sales Dashboard](https://github.com/adupassieux-arch/dashboard)
 Stock and sales analysis for a prestige wine and spirits e-commerce catalog (825 products). Multivariate anomaly detection (Isolation Forest) and product segmentation (K-Means), benchmarked against classic statistical methods. Interactive HTML/Plotly.js dashboard.
 **Stack**: Python, scikit-learn, pandas, Plotly.js, HTML/CSS/JS
 **[View live dashboard →](https://adupassieux-arch.github.io/dashboard/)**
 
-### [Bottleneck — Ventes & Stock (Power BI Dashboard)](https://github.com/adupassieux-arch/Bottleneck_Dashboard)
+### [Fine Wine & Spirits — Sales & Stock Power BI Dashboard](https://github.com/adupassieux-arch/Bottleneck_Dashboard)
 
 Business intelligence dashboard for a wine & spirits distributor: sales, margin, stock rotation and promotion ROI, built on a star-schema data model with automated Power Query cleansing and DAX measures. Includes 3 data-backed business recommendations (segment profitability, slow-moving stock, promo targeting). **Stack**: Power BI, Power Query, DAX **[View live dashboard →](https://adupassieux-arch.github.io/Bottleneck_Dashboard/Bottleneck_Dashboard_Prototype.html)**
 
-### [Bottleneck — Notebook & SQL/Python Analysis](https://github.com/adupassieux-arch/analyse-stock-ventes)
+### [Fine Wine E-commerce — Data Cleaning & Stock/Sales Analysis](https://github.com/adupassieux-arch/analyse-stock-ventes)
 Data consolidation and cleaning across products, sales, and stock. Correlation analysis (price/margin/stock/volume) with actionable business recommendations.
 **Stack**: Python, pandas, matplotlib, seaborn
 
