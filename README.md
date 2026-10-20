@@ -96,4 +96,4 @@ A structured monitoring process accompanies each project: identifying a need, co
 
 ## Contact
 
-[Malt](https://www.malt.fr/profile/aureliedupassieux) · [Behance](https://www.behance.net/aurliedupassi1) · [X](https://x.com/mclbank) · [Instagram](https://www.instagram.com/damirintllc/) · [TradeWheel](https://www.tradewheel.com/co/damir-international-llc-1690352/) · AD International Consulting
+[Malt](https://www.malt.fr/profile/aureliedupassieux) · [Behance](https://www.behance.net/aurliedupassi1) · [X](https://x.com/mclbank) · [Instagram](https://www.instagram.com/aureliedupassieux) · [AD International Consulting](https://adupassieux-arch.github.io/)
