@@ -20,14 +20,14 @@ Professional consulting site for AD International Consulting — strategic advis
 ### [Design & Strategy Portfolio](https://adupassieux-arch.github.io/portfolio/)
 Visual portfolio of interior design, art direction and strategy & markets work: 14 projects across two galleries (Design · Strategy & Markets), from a Moroccan riad suite and New York residences to brand direction for finance and commodities. Static site built from a single content file, with one SEO-ready page per project and automatic rebuilds via GitHub Actions.
 **Stack**: HTML/CSS/JS, Node.js static generator, GitHub Actions, GitHub Pages
-**[View portfolio →](https://adupassieux-arch.github.io/portfolio/)** · **[Source →](https://github.com/adupassieux-arch/portfolio)**
+**[View portfolio →](https://adupassieux-arch.github.io/portfolio/)** 
 
 
 ### [Energy & FX Market Monitor](https://github.com/adupassieux-arch/energy-fx-monitor) 
 Self-updating dashboard of the energy and currency markets behind U.S.–Europe–China trade: Brent, WTI and Henry Hub natural gas against EUR/USD and USD/CNY, daily since 2021. It shows the Brent–WTI spread, 30-day realised volatility with a regime indicator, cross-market correlation matrices (90-day and full period) and rolling correlations, plus a one-month price range whose 80% band is backtested weekly over three years (realised hit rate about 79%). Five key readings are regenerated in plain English at each update, and a GitHub Actions workflow rebuilds the page every Monday with retries and a fallback if a source is unreachable.
 **Data sources**: U.S. Energy Information Administration spot prices via FRED, Federal Reserve Bank of St. Louis — [Brent (DCOILBRENTEU)](https://fred.stlouisfed.org/series/DCOILBRENTEU), [WTI (DCOILWTICO)](https://fred.stlouisfed.org/series/DCOILWTICO), [Henry Hub (DHHNGSP)](https://fred.stlouisfed.org/series/DHHNGSP); [European Central Bank euro reference exchange rates](https://data.ecb.europa.eu/data/datasets/EXR) (USD and CNY; USD/CNY derived).
 **Stack**: Python (pandas, NumPy), time-series analysis, Plotly.js, HTML/CSS/JS, GitHub Actions, GitHub Pages
-**[View live dashboard →](https://adupassieux-arch.github.io/energy-fx-monitor/)** · **[Source →](https://github.com/adupassieux-arch/energy-fx-monitor)**
+**[View live dashboard →](https://adupassieux-arch.github.io/energy-fx-monitor/)** 
 
 ### [Case Study — Strategic MDP Dashboard](https://github.com/adupassieux-arch/strategic-dashboard)
 Illustrative (anonymized) case applying a Markov Decision Process framework to commodity trade structuring: state × action policy matrix, probabilistic scenario analysis, price structure.
