@@ -23,7 +23,7 @@ Visual portfolio of interior design, art direction and strategy & markets work: 
 **[View portfolio →](https://adupassieux-arch.github.io/portfolio/)** · **[Source →](https://github.com/adupassieux-arch/portfolio)**
 
 
-### [Energy & FX Market Monitor](https://github.com/adupassieux-arch/energy-fx-monitor) — featured
+### [Energy & FX Market Monitor](https://github.com/adupassieux-arch/energy-fx-monitor) 
 Self-updating dashboard of the energy and currency markets behind U.S.–Europe–China trade: Brent, WTI and Henry Hub natural gas against EUR/USD and USD/CNY, daily since 2021. It shows the Brent–WTI spread, 30-day realised volatility with a regime indicator, cross-market correlation matrices (90-day and full period) and rolling correlations, plus a one-month price range whose 80% band is backtested weekly over three years (realised hit rate about 79%). Five key readings are regenerated in plain English at each update, and a GitHub Actions workflow rebuilds the page every Monday with retries and a fallback if a source is unreachable.
 **Data sources**: U.S. Energy Information Administration spot prices via FRED, Federal Reserve Bank of St. Louis — [Brent (DCOILBRENTEU)](https://fred.stlouisfed.org/series/DCOILBRENTEU), [WTI (DCOILWTICO)](https://fred.stlouisfed.org/series/DCOILWTICO), [Henry Hub (DHHNGSP)](https://fred.stlouisfed.org/series/DHHNGSP); [European Central Bank euro reference exchange rates](https://data.ecb.europa.eu/data/datasets/EXR) (USD and CNY; USD/CNY derived).
 **Stack**: Python (pandas, NumPy), time-series analysis, Plotly.js, HTML/CSS/JS, GitHub Actions, GitHub Pages
