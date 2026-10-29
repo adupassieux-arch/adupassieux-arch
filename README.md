@@ -4,6 +4,8 @@
 
 Strategic analyst with 15+ years of experience in international finance, commodities, and cross-border transactions, specializing in data analysis, modeling, and visualization. Languages: SQL, Python, Power BI.
 
+**Education**: BSc in Data Analytics, WSCUC-accredited US institution (2026) · Master's in International Management, IAE Grenoble · BSc in Chemistry, Institut Polytechnique de Grenoble
+
 
 
 
