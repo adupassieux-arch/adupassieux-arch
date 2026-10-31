@@ -25,6 +25,12 @@ Visual portfolio of interior design, art direction and strategy & markets work: 
 **[View portfolio →](https://adupassieux-arch.github.io/portfolio/)** 
 
 
+### [Bugsy's Social Club — Brand Identity & Website](https://adupassieux-arch.github.io/bugsys/)
+Concept, brand identity and bilingual (French/English) website for a café, steak house & seafood restaurant and DJ club in Yaoundé, Cameroon. Work covered the business plan and market positioning, an art deco identity (BS monogram, black-and-gold palette), the menu, membership cards, and a one-page showcase site with structured data for local search.
+**Stack**: HTML/CSS, Python static generator, Schema.org JSON-LD, GitHub Pages
+**[Visit site →](https://adupassieux-arch.github.io/bugsys/)** · **[Behance case study →](https://www.behance.net/gallery/257846919/Bugsys-Club-Identit-de-marque)**
+
+
 ### [Energy & FX Market Monitor](https://github.com/adupassieux-arch/energy-fx-monitor) 
 Self-updating dashboard of the energy and currency markets behind U.S.–Europe–China trade: Brent, WTI and Henry Hub natural gas against EUR/USD and USD/CNY, daily since 2021. It shows the Brent–WTI spread, 30-day realised volatility with a regime indicator, cross-market correlation matrices (90-day and full period) and rolling correlations, plus a one-month price range whose 80% band is backtested weekly over three years (realised hit rate about 79%). Five key readings are regenerated in plain English at each update, and a GitHub Actions workflow rebuilds the page every Monday with retries and a fallback if a source is unreachable.
 **Data sources**: U.S. Energy Information Administration spot prices via FRED, Federal Reserve Bank of St. Louis — [Brent (DCOILBRENTEU)](https://fred.stlouisfed.org/series/DCOILBRENTEU), [WTI (DCOILWTICO)](https://fred.stlouisfed.org/series/DCOILWTICO), [Henry Hub (DHHNGSP)](https://fred.stlouisfed.org/series/DHHNGSP); [European Central Bank euro reference exchange rates](https://data.ecb.europa.eu/data/datasets/EXR) (USD and CNY; USD/CNY derived).
