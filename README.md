@@ -50,10 +50,10 @@ Excel analysis of 569 players and 30 teams: 7 formulas, 4 pivot tables, conditio
 Relational database design (8 tables, 540 players) from Ligue 1 2025 data. 10 business SQL queries and a costed recruitment recommendation under budget constraints.
 **Stack**: SQL, SQLite, Python (pandas)
 
-### [Bugsy's Social Club — Brand Identity & Website](https://adupassieux-arch.github.io/bugsys/)
+### [Bugsy's Social Club — Brand Identity & Website](https://bugsys-club.github.io/bugsysclub/)
 Concept, brand identity and bilingual (French/English) website for a café, steak house & seafood restaurant and DJ club in Yaoundé, Cameroon. Work covered the business plan and market positioning, an art deco identity (BS monogram, black-and-gold palette), the menu, membership cards, and a one-page showcase site with structured data for local search.
 **Stack**: HTML/CSS, Python static generator, Schema.org JSON-LD, GitHub Pages
-**[Visit site →](https://adupassieux-arch.github.io/bugsys/)** · 
+**[Visit site →](https://bugsys-club.github.io/bugsysclub/)** · 
 
 ### [Multivariate Anomaly Detection — Fine Wine Catalogue](https://github.com/adupassieux-arch/detection-anomalies-ia)
 Critical revisit of the stock and sales analysis of an online fine wine merchant ("Bottleneck" case), with an approach inspired by a [published Walmart Labs case study](https://arxiv.org/abs/1902.09566) on e-commerce price anomaly detection: univariate outlier detection (Z-score/IQR on price) benchmarked against a multivariate **Isolation Forest** on price, cost, stock, sales and margin across 712 products. The model surfaces **16 anomalies invisible to the univariate approach**, tested for stability (**96.9%** across two seeds) and sensitivity (3–8% contamination), then reviewed product by product to separate a business risk (slow-moving premium Champagne stock) from a positive signal (high-margin, high-velocity entry-level wines). Full methodology, sources, tests and decisions documented.
